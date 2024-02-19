@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
   "private": true,
+  "type": "module",
   "main": "./build/ckeditor.js",
   "types": "./build/ckeditor.d.ts",
   "dependencies": {
